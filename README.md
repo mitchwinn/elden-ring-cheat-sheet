@@ -1,3 +1,3 @@
-## Dark Souls Cheat Sheet
+## Elden Ring Cheat Sheet
 
-To view the cheat sheet [click here](https://smcnabb.github.io/dark-souls-cheat-sheet/).
+Based on the existing [Dark Souls 2 Cheat Sheet](https://github.com/smcnabb/dark-souls-2-cheat-sheet/tree/gh-pages) created [Stephen McNabb](https://github.com/smcnabb).
